@@ -69,6 +69,6 @@ jobs:
           # 个人访问令牌（如果需要）
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # 推送的分支
-          publish_branch: main
+          publish_branch: html_book_theme
           #publish_branch: thtml
 
